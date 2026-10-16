@@ -26,7 +26,7 @@
 
 Hello! I'm **Adeeb Farid Jaafar**, a software developer from Damascus, Syria, with a background in Information Technology Engineering and a strong interest in mobile application development and artificial intelligence.
 
-- 🎓 Studying Information Technology Engineering at GBU Private University.
+- 🎓 Studying Information Technology Engineering at JPU Private University.
 - 📱 Focused on building cross-platform mobile applications using Flutter and Dart.
 - ⚙️ Experienced in backend development using Laravel, PHP, REST APIs, and SQL databases.
 - 🤖 Exploring AI-powered applications and backend AI services using Python and FastAPI.
